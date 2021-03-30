@@ -41,6 +41,7 @@
 		88EB38F42613C52600BD9EB0 /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EB38F32613C52500BD9EB0 /* RatingsSizesDetailView.swift */; };
 		88EB38F72613C8A800BD9EB0 /* QuantityFavouriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EB38F62613C8A800BD9EB0 /* QuantityFavouriteDetailView.swift */; };
 		88EB38FA2613CC5000BD9EB0 /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EB38F92613CC5000BD9EB0 /* AddToCartDetailView.swift */; };
+		88EB38FD2613CE7900BD9EB0 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EB38FC2613CE7900BD9EB0 /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		88EB38F32613C52500BD9EB0 /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
 		88EB38F62613C8A800BD9EB0 /* QuantityFavouriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavouriteDetailView.swift; sourceTree = "<group>"; };
 		88EB38F92613CC5000BD9EB0 /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
+		88EB38FC2613CE7900BD9EB0 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 			children = (
 				88EB38AC261264E600BD9EB0 /* Constant.swift */,
 				88EB38F02613BFD900BD9EB0 /* CustomShape.swift */,
+				88EB38FC2613CE7900BD9EB0 /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				88EB38C426127C1700BD9EB0 /* FeaturedTabView.swift in Sources */,
 				88EB38F12613BFD900BD9EB0 /* CustomShape.swift in Sources */,
 				88EB38BB2612793600BD9EB0 /* PlayerModel.swift in Sources */,
+				88EB38FD2613CE7900BD9EB0 /* Shop.swift in Sources */,
 				88EB38DC2613AF3E00BD9EB0 /* BrandModel.swift in Sources */,
 				88EB38D32613A54C00BD9EB0 /* TitleView.swift in Sources */,
 				88EB38F72613C8A800BD9EB0 /* QuantityFavouriteDetailView.swift in Sources */,
